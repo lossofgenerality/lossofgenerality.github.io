@@ -1,0 +1,4290 @@
+[
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5475121388.GIF",
+            "hint": "",
+            "example": "quadabs_7700420393.GIF",
+            "algebra": "{1, -1, 1}",
+            "example_anime": {
+                "image": "quadabs_5942729313.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3505670613.pdf",
+            "choices": [
+                "quadabs_3927969236.GIF",
+                "quadabs_3857144711.GIF",
+                "quadabs_7157242691.GIF",
+                "quadabs_8849761610.GIF"
+            ],
+            "index": [
+                3,
+                2,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6330117357.GIF",
+            "hint": "",
+            "example": "quadabs_6803173227.GIF",
+            "algebra": "{1, -1, 1}",
+            "example_anime": {
+                "image": "quadabs_3984639105.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_9939031677.pdf",
+            "choices": [
+                "quadabs_9732178255.GIF",
+                "quadabs_5111225925.GIF",
+                "quadabs_2934394477.GIF",
+                "quadabs_6319250005.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3052696327.GIF",
+            "hint": "",
+            "example": "quadabs_6523754493.GIF",
+            "algebra": "{1, -1, 1}",
+            "example_anime": {
+                "image": "quadabs_4093104113.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6313855971.pdf",
+            "choices": [
+                "quadabs_4415324662.GIF",
+                "quadabs_4358012178.GIF",
+                "quadabs_6546134525.GIF",
+                "quadabs_7679383981.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7938569382.GIF",
+            "hint": "",
+            "example": "quadabs_5029963408.GIF",
+            "algebra": "{2, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_5264237880.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2125259284.pdf",
+            "choices": [
+                "quadabs_9400031509.GIF",
+                "quadabs_9599538569.GIF",
+                "quadabs_6192286409.GIF",
+                "quadabs_2825254438.GIF"
+            ],
+            "index": [
+                2,
+                1,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5891073227.GIF",
+            "hint": "",
+            "example": "quadabs_9781439005.GIF",
+            "algebra": "{2, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_5257177526.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5596624547.pdf",
+            "choices": [
+                "quadabs_4575541099.GIF",
+                "quadabs_4710309122.GIF",
+                "quadabs_1931989321.GIF",
+                "quadabs_8144825994.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7630222513.GIF",
+            "hint": "",
+            "example": "quadabs_1091061283.GIF",
+            "algebra": "{2, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_1472696286.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1590901236.pdf",
+            "choices": [
+                "quadabs_6305451531.GIF",
+                "quadabs_1782502392.GIF",
+                "quadabs_2230151397.GIF",
+                "quadabs_2875577262.GIF"
+            ],
+            "index": [
+                2,
+                1,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6254110236.GIF",
+            "hint": "",
+            "example": "quadabs_1623978577.GIF",
+            "algebra": "{1, -2, 0}",
+            "example_anime": {
+                "image": "quadabs_4076364992.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3317162787.pdf",
+            "choices": [
+                "quadabs_1944817566.GIF",
+                "quadabs_6709928477.GIF",
+                "quadabs_5381775075.GIF",
+                "quadabs_7727338003.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1383101154.GIF",
+            "hint": "",
+            "example": "quadabs_2487905356.GIF",
+            "algebra": "{1, -2, 0}",
+            "example_anime": {
+                "image": "quadabs_6630011082.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3400465020.pdf",
+            "choices": [
+                "quadabs_1818407658.GIF",
+                "quadabs_4480712496.GIF",
+                "quadabs_3409570005.GIF",
+                "quadabs_9910039266.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3947405096.GIF",
+            "hint": "",
+            "example": "quadabs_2976371101.GIF",
+            "algebra": "{1, -2, 0}",
+            "example_anime": {
+                "image": "quadabs_1081946651.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7383484796.pdf",
+            "choices": [
+                "quadabs_8571599093.GIF",
+                "quadabs_4392105946.GIF",
+                "quadabs_3487411058.GIF",
+                "quadabs_6319529391.GIF"
+            ],
+            "index": [
+                3,
+                4,
+                2,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3425580496.GIF",
+            "hint": "",
+            "example": "quadabs_1554456067.GIF",
+            "algebra": "{-2, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_7806725763.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2159777712.pdf",
+            "choices": [
+                "quadabs_5773718421.GIF",
+                "quadabs_3346557137.GIF",
+                "quadabs_9927926083.GIF",
+                "quadabs_2519941233.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                2,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3293751182.GIF",
+            "hint": "",
+            "example": "quadabs_2356697528.GIF",
+            "algebra": "{-2, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_4492882342.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_9768683843.pdf",
+            "choices": [
+                "quadabs_5804895888.GIF",
+                "quadabs_2201554796.GIF",
+                "quadabs_3488250105.GIF",
+                "quadabs_1005764547.GIF"
+            ],
+            "index": [
+                3,
+                2,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4566613963.GIF",
+            "hint": "",
+            "example": "quadabs_4335047323.GIF",
+            "algebra": "{-2, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_4704450571.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_4586145057.pdf",
+            "choices": [
+                "quadabs_6847044744.GIF",
+                "quadabs_2303890641.GIF",
+                "quadabs_7227861150.GIF",
+                "quadabs_7926493284.GIF"
+            ],
+            "index": [
+                2,
+                1,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_2383248586.GIF",
+            "hint": "",
+            "example": "quadabs_8726598336.GIF",
+            "algebra": "{-2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_4870653441.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6895671847.pdf",
+            "choices": [
+                "quadabs_3877470507.GIF",
+                "quadabs_3936934787.GIF",
+                "quadabs_9328801479.GIF",
+                "quadabs_8791018378.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                1,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_2581665171.GIF",
+            "hint": "",
+            "example": "quadabs_5936834271.GIF",
+            "algebra": "{-2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_9184784664.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1032235231.pdf",
+            "choices": [
+                "quadabs_4853420749.GIF",
+                "quadabs_8239691159.GIF",
+                "quadabs_2389745978.GIF",
+                "quadabs_5290993468.GIF"
+            ],
+            "index": [
+                3,
+                4,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5080210240.GIF",
+            "hint": "",
+            "example": "quadabs_9722219645.GIF",
+            "algebra": "{-2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_6256240046.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7110779524.pdf",
+            "choices": [
+                "quadabs_4647519240.GIF",
+                "quadabs_1127212520.GIF",
+                "quadabs_9194421887.GIF",
+                "quadabs_8829355566.GIF"
+            ],
+            "index": [
+                3,
+                2,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3078310410.GIF",
+            "hint": "",
+            "example": "quadabs_8007577867.GIF",
+            "algebra": "{2, -1, -1}",
+            "example_anime": {
+                "image": "quadabs_2344888959.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5250066101.pdf",
+            "choices": [
+                "quadabs_9532643308.GIF",
+                "quadabs_1718902231.GIF",
+                "quadabs_8422930583.GIF",
+                "quadabs_6992005878.GIF"
+            ],
+            "index": [
+                1,
+                4,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8361201555.GIF",
+            "hint": "",
+            "example": "quadabs_4162965802.GIF",
+            "algebra": "{2, -1, -1}",
+            "example_anime": {
+                "image": "quadabs_7051115840.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2373763259.pdf",
+            "choices": [
+                "quadabs_1730127909.GIF",
+                "quadabs_7738531587.GIF",
+                "quadabs_7056758193.GIF",
+                "quadabs_3402675379.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1139487168.GIF",
+            "hint": "",
+            "example": "quadabs_9728040760.GIF",
+            "algebra": "{2, -1, -1}",
+            "example_anime": {
+                "image": "quadabs_3619752966.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2047024109.pdf",
+            "choices": [
+                "quadabs_3852528422.GIF",
+                "quadabs_2324551368.GIF",
+                "quadabs_4532140044.GIF",
+                "quadabs_2528442645.GIF"
+            ],
+            "index": [
+                2,
+                1,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1308590463.GIF",
+            "hint": "",
+            "example": "quadabs_2877681771.GIF",
+            "algebra": "{-2, 2, -1}",
+            "example_anime": {
+                "image": "quadabs_5730570194.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2060165159.pdf",
+            "choices": [
+                "quadabs_1528621394.GIF",
+                "quadabs_8399064800.GIF",
+                "quadabs_4116423760.GIF",
+                "quadabs_2740640308.GIF"
+            ],
+            "index": [
+                1,
+                3,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8572070179.GIF",
+            "hint": "",
+            "example": "quadabs_4361936772.GIF",
+            "algebra": "{-2, 2, -1}",
+            "example_anime": {
+                "image": "quadabs_4510356023.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3332971741.pdf",
+            "choices": [
+                "quadabs_2020426333.GIF",
+                "quadabs_5580706748.GIF",
+                "quadabs_1837613770.GIF",
+                "quadabs_1417386204.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1938398002.GIF",
+            "hint": "",
+            "example": "quadabs_4573412188.GIF",
+            "algebra": "{-2, 2, -1}",
+            "example_anime": {
+                "image": "quadabs_3634611995.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1507859572.pdf",
+            "choices": [
+                "quadabs_8432028784.GIF",
+                "quadabs_8785563339.GIF",
+                "quadabs_4692741192.GIF",
+                "quadabs_7742110882.GIF"
+            ],
+            "index": [
+                1,
+                4,
+                2,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1308753114.GIF",
+            "hint": "",
+            "example": "quadabs_5818341667.GIF",
+            "algebra": "{-1, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_1439813892.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3739566746.pdf",
+            "choices": [
+                "quadabs_1702058405.GIF",
+                "quadabs_9992560516.GIF",
+                "quadabs_6429713605.GIF",
+                "quadabs_3086305261.GIF"
+            ],
+            "index": [
+                3,
+                2,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4940490364.GIF",
+            "hint": "",
+            "example": "quadabs_6425068529.GIF",
+            "algebra": "{-1, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_6170240965.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3751823985.pdf",
+            "choices": [
+                "quadabs_5967460117.GIF",
+                "quadabs_1862318439.GIF",
+                "quadabs_9753210188.GIF",
+                "quadabs_1732649004.GIF"
+            ],
+            "index": [
+                3,
+                4,
+                2,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_2093549900.GIF",
+            "hint": "",
+            "example": "quadabs_5109390434.GIF",
+            "algebra": "{-1, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_8746475661.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_8811646760.pdf",
+            "choices": [
+                "quadabs_6646965162.GIF",
+                "quadabs_7911110907.GIF",
+                "quadabs_6513632791.GIF",
+                "quadabs_2336736277.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1117490024.GIF",
+            "hint": "",
+            "example": "quadabs_5618829903.GIF",
+            "algebra": "{-1, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_7575414513.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1164738673.pdf",
+            "choices": [
+                "quadabs_2288924826.GIF",
+                "quadabs_2243558161.GIF",
+                "quadabs_8344941036.GIF",
+                "quadabs_5308099981.GIF"
+            ],
+            "index": [
+                1,
+                3,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_9020063104.GIF",
+            "hint": "",
+            "example": "quadabs_3790806301.GIF",
+            "algebra": "{-1, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_5075191819.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_8122449901.pdf",
+            "choices": [
+                "quadabs_3339452101.GIF",
+                "quadabs_5351278462.GIF",
+                "quadabs_9341559519.GIF",
+                "quadabs_4229159668.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                2,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_9761316197.GIF",
+            "hint": "",
+            "example": "quadabs_4623846518.GIF",
+            "algebra": "{-1, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_2171021880.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7086315768.pdf",
+            "choices": [
+                "quadabs_5189089551.GIF",
+                "quadabs_5159647039.GIF",
+                "quadabs_9226979200.GIF",
+                "quadabs_1916905009.GIF"
+            ],
+            "index": [
+                3,
+                4,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_2343243856.GIF",
+            "hint": "",
+            "example": "quadabs_9870265511.GIF",
+            "algebra": "{2, 2, -2}",
+            "example_anime": {
+                "image": "quadabs_4663115571.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7691640214.pdf",
+            "choices": [
+                "quadabs_3525252700.GIF",
+                "quadabs_2521912944.GIF",
+                "quadabs_7223594744.GIF",
+                "quadabs_9767426213.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                1,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_9540506212.GIF",
+            "hint": "",
+            "example": "quadabs_6619104695.GIF",
+            "algebra": "{2, 2, -2}",
+            "example_anime": {
+                "image": "quadabs_9189079088.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_9167237424.pdf",
+            "choices": [
+                "quadabs_5206301175.GIF",
+                "quadabs_1439065090.GIF",
+                "quadabs_9984074317.GIF",
+                "quadabs_7462109991.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7482933041.GIF",
+            "hint": "",
+            "example": "quadabs_6276532070.GIF",
+            "algebra": "{2, 2, -2}",
+            "example_anime": {
+                "image": "quadabs_9572145897.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6571768730.pdf",
+            "choices": [
+                "quadabs_9331832075.GIF",
+                "quadabs_9516806406.GIF",
+                "quadabs_5669430876.GIF",
+                "quadabs_4872491615.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7294623694.GIF",
+            "hint": "",
+            "example": "quadabs_5226486337.GIF",
+            "algebra": "{1, 1, 2}",
+            "example_anime": {
+                "image": "quadabs_5961950440.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5714630388.pdf",
+            "choices": [
+                "quadabs_2756111076.GIF",
+                "quadabs_1740152590.GIF",
+                "quadabs_8259716576.GIF",
+                "quadabs_3582438579.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7010372428.GIF",
+            "hint": "",
+            "example": "quadabs_3632976225.GIF",
+            "algebra": "{1, 1, 2}",
+            "example_anime": {
+                "image": "quadabs_6530533663.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5849743469.pdf",
+            "choices": [
+                "quadabs_2952577049.GIF",
+                "quadabs_9019570592.GIF",
+                "quadabs_8252491929.GIF",
+                "quadabs_9083579693.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4786609396.GIF",
+            "hint": "",
+            "example": "quadabs_1187402046.GIF",
+            "algebra": "{1, 1, 2}",
+            "example_anime": {
+                "image": "quadabs_1308412471.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2466904707.pdf",
+            "choices": [
+                "quadabs_7898277844.GIF",
+                "quadabs_1407635878.GIF",
+                "quadabs_9862821416.GIF",
+                "quadabs_7249270958.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5865927333.GIF",
+            "hint": "",
+            "example": "quadabs_4028723257.GIF",
+            "algebra": "{-1, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_9333162879.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5853635372.pdf",
+            "choices": [
+                "quadabs_5902246821.GIF",
+                "quadabs_6261761137.GIF",
+                "quadabs_7638334673.GIF",
+                "quadabs_7829502642.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_2754438545.GIF",
+            "hint": "",
+            "example": "quadabs_1089303436.GIF",
+            "algebra": "{-1, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_4417831069.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6508435345.pdf",
+            "choices": [
+                "quadabs_3453014955.GIF",
+                "quadabs_9530670266.GIF",
+                "quadabs_3085790906.GIF",
+                "quadabs_4978989164.GIF"
+            ],
+            "index": [
+                2,
+                4,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8354674147.GIF",
+            "hint": "",
+            "example": "quadabs_1291742751.GIF",
+            "algebra": "{-1, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_1637297047.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_9875413494.pdf",
+            "choices": [
+                "quadabs_5137934174.GIF",
+                "quadabs_3515291757.GIF",
+                "quadabs_1501674416.GIF",
+                "quadabs_4111855401.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5811528805.GIF",
+            "hint": "",
+            "example": "quadabs_6044959262.GIF",
+            "algebra": "{1, 2, -1}",
+            "example_anime": {
+                "image": "quadabs_1624588652.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2548872379.pdf",
+            "choices": [
+                "quadabs_7821912554.GIF",
+                "quadabs_5621706004.GIF",
+                "quadabs_9290087560.GIF",
+                "quadabs_5660561666.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_2728745091.GIF",
+            "hint": "",
+            "example": "quadabs_3340652241.GIF",
+            "algebra": "{1, 2, -1}",
+            "example_anime": {
+                "image": "quadabs_6295541840.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7620688775.pdf",
+            "choices": [
+                "quadabs_2990615399.GIF",
+                "quadabs_5415648143.GIF",
+                "quadabs_6302248721.GIF",
+                "quadabs_1994711432.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                2,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8532051233.GIF",
+            "hint": "",
+            "example": "quadabs_7505305011.GIF",
+            "algebra": "{1, 2, -1}",
+            "example_anime": {
+                "image": "quadabs_7408711394.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2816258591.pdf",
+            "choices": [
+                "quadabs_4237654518.GIF",
+                "quadabs_9208700175.GIF",
+                "quadabs_2893359902.GIF",
+                "quadabs_7784795485.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1256894398.GIF",
+            "hint": "",
+            "example": "quadabs_7606878778.GIF",
+            "algebra": "{-2, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_2536397783.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_8002762667.pdf",
+            "choices": [
+                "quadabs_5511121569.GIF",
+                "quadabs_5225883694.GIF",
+                "quadabs_5151996651.GIF",
+                "quadabs_2093720758.GIF"
+            ],
+            "index": [
+                1,
+                4,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7136391355.GIF",
+            "hint": "",
+            "example": "quadabs_1277698338.GIF",
+            "algebra": "{-2, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_6797829418.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5058547576.pdf",
+            "choices": [
+                "quadabs_2276013034.GIF",
+                "quadabs_9572387644.GIF",
+                "quadabs_4196211911.GIF",
+                "quadabs_1900789797.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8762084461.GIF",
+            "hint": "",
+            "example": "quadabs_9816803985.GIF",
+            "algebra": "{-2, 1, 1}",
+            "example_anime": {
+                "image": "quadabs_3924524482.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6395645894.pdf",
+            "choices": [
+                "quadabs_4373107066.GIF",
+                "quadabs_2184010460.GIF",
+                "quadabs_8201702439.GIF",
+                "quadabs_1894006572.GIF"
+            ],
+            "index": [
+                1,
+                3,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4416061214.GIF",
+            "hint": "",
+            "example": "quadabs_8258270890.GIF",
+            "algebra": "{-1, 0, 1}",
+            "example_anime": {
+                "image": "quadabs_5550482025.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_8997820951.pdf",
+            "choices": [
+                "quadabs_9973294017.GIF",
+                "quadabs_4497725787.GIF",
+                "quadabs_3287351360.GIF",
+                "quadabs_6503070428.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1500856808.GIF",
+            "hint": "",
+            "example": "quadabs_4349493238.GIF",
+            "algebra": "{-1, 0, 1}",
+            "example_anime": {
+                "image": "quadabs_5729133607.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5003379802.pdf",
+            "choices": [
+                "quadabs_3937840073.GIF",
+                "quadabs_1449277292.GIF",
+                "quadabs_2242126116.GIF",
+                "quadabs_5110949183.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7235486408.GIF",
+            "hint": "",
+            "example": "quadabs_8559079463.GIF",
+            "algebra": "{-1, 0, 1}",
+            "example_anime": {
+                "image": "quadabs_3349746231.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5129460435.pdf",
+            "choices": [
+                "quadabs_4392410778.GIF",
+                "quadabs_7816602828.GIF",
+                "quadabs_3260757516.GIF",
+                "quadabs_3259887198.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                1,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6460225249.GIF",
+            "hint": "",
+            "example": "quadabs_6419223703.GIF",
+            "algebra": "{-1, 0, 0}",
+            "example_anime": {
+                "image": "quadabs_4372166918.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6282264918.pdf",
+            "choices": [
+                "quadabs_9033687649.GIF",
+                "quadabs_9554857120.GIF",
+                "quadabs_6681566166.GIF",
+                "quadabs_5861358570.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4207322398.GIF",
+            "hint": "",
+            "example": "quadabs_3146245083.GIF",
+            "algebra": "{-1, 0, 0}",
+            "example_anime": {
+                "image": "quadabs_5101381416.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5554857659.pdf",
+            "choices": [
+                "quadabs_9832042236.GIF",
+                "quadabs_3534781718.GIF",
+                "quadabs_3823727100.GIF",
+                "quadabs_2638371343.GIF"
+            ],
+            "index": [
+                1,
+                3,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4077095414.GIF",
+            "hint": "",
+            "example": "quadabs_4321346420.GIF",
+            "algebra": "{-1, 0, 0}",
+            "example_anime": {
+                "image": "quadabs_3288873611.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_8562944198.pdf",
+            "choices": [
+                "quadabs_7247458666.GIF",
+                "quadabs_4175752097.GIF",
+                "quadabs_2502068094.GIF",
+                "quadabs_1684422634.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7702402319.GIF",
+            "hint": "",
+            "example": "quadabs_8285326342.GIF",
+            "algebra": "{-1, 0, -1}",
+            "example_anime": {
+                "image": "quadabs_2676637689.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2340560607.pdf",
+            "choices": [
+                "quadabs_1340957979.GIF",
+                "quadabs_4664005062.GIF",
+                "quadabs_6789935331.GIF",
+                "quadabs_8870832152.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                2,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6146643964.GIF",
+            "hint": "",
+            "example": "quadabs_1442170020.GIF",
+            "algebra": "{-1, 0, -1}",
+            "example_anime": {
+                "image": "quadabs_6108412111.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_4193061628.pdf",
+            "choices": [
+                "quadabs_4150567993.GIF",
+                "quadabs_6267983855.GIF",
+                "quadabs_6234493230.GIF",
+                "quadabs_1921503937.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7047930412.GIF",
+            "hint": "",
+            "example": "quadabs_2555398109.GIF",
+            "algebra": "{-1, 0, -1}",
+            "example_anime": {
+                "image": "quadabs_6997181346.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7365329960.pdf",
+            "choices": [
+                "quadabs_8761154329.GIF",
+                "quadabs_8801707658.GIF",
+                "quadabs_7001528967.GIF",
+                "quadabs_2243982127.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7018126342.GIF",
+            "hint": "",
+            "example": "quadabs_9745209093.GIF",
+            "algebra": "{-2, 0, 1}",
+            "example_anime": {
+                "image": "quadabs_9629227279.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_8362997919.pdf",
+            "choices": [
+                "quadabs_2009700769.GIF",
+                "quadabs_7764291015.GIF",
+                "quadabs_1409009880.GIF",
+                "quadabs_2978156662.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5005600865.GIF",
+            "hint": "",
+            "example": "quadabs_7287894347.GIF",
+            "algebra": "{-2, 0, 1}",
+            "example_anime": {
+                "image": "quadabs_7963204768.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2903049418.pdf",
+            "choices": [
+                "quadabs_3910968571.GIF",
+                "quadabs_6514610564.GIF",
+                "quadabs_5082940865.GIF",
+                "quadabs_9235243789.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4441771789.GIF",
+            "hint": "",
+            "example": "quadabs_1313901345.GIF",
+            "algebra": "{-2, 0, 1}",
+            "example_anime": {
+                "image": "quadabs_1945964019.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5622995706.pdf",
+            "choices": [
+                "quadabs_3682339199.GIF",
+                "quadabs_9611090559.GIF",
+                "quadabs_1375276248.GIF",
+                "quadabs_9250432824.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8910026135.GIF",
+            "hint": "",
+            "example": "quadabs_5891293787.GIF",
+            "algebra": "{2, -2, -2}",
+            "example_anime": {
+                "image": "quadabs_8405061994.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_4341938336.pdf",
+            "choices": [
+                "quadabs_1444267133.GIF",
+                "quadabs_6768822077.GIF",
+                "quadabs_6996745555.GIF",
+                "quadabs_8721504185.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6483603610.GIF",
+            "hint": "",
+            "example": "quadabs_8066656813.GIF",
+            "algebra": "{2, -2, -2}",
+            "example_anime": {
+                "image": "quadabs_3900796530.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1631322521.pdf",
+            "choices": [
+                "quadabs_7982161279.GIF",
+                "quadabs_1294019779.GIF",
+                "quadabs_9943585832.GIF",
+                "quadabs_5325106236.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6639072977.GIF",
+            "hint": "",
+            "example": "quadabs_5262472004.GIF",
+            "algebra": "{2, -2, -2}",
+            "example_anime": {
+                "image": "quadabs_6565719577.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1023022886.pdf",
+            "choices": [
+                "quadabs_1611723907.GIF",
+                "quadabs_7171301330.GIF",
+                "quadabs_3263945475.GIF",
+                "quadabs_6103322006.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7340632064.GIF",
+            "hint": "",
+            "example": "quadabs_9063549864.GIF",
+            "algebra": "{-1, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_4845839860.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6516772898.pdf",
+            "choices": [
+                "quadabs_8058727149.GIF",
+                "quadabs_9442884055.GIF",
+                "quadabs_9017934096.GIF",
+                "quadabs_3097453813.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                2,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7021320402.GIF",
+            "hint": "",
+            "example": "quadabs_1929892390.GIF",
+            "algebra": "{-1, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_8033997309.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5739784643.pdf",
+            "choices": [
+                "quadabs_1131287277.GIF",
+                "quadabs_1741635992.GIF",
+                "quadabs_5307098039.GIF",
+                "quadabs_5116193105.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_9768394998.GIF",
+            "hint": "",
+            "example": "quadabs_3062913628.GIF",
+            "algebra": "{-1, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_1103634431.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_4338729983.pdf",
+            "choices": [
+                "quadabs_6688371831.GIF",
+                "quadabs_9954477998.GIF",
+                "quadabs_3973294643.GIF",
+                "quadabs_8737121973.GIF"
+            ],
+            "index": [
+                3,
+                4,
+                2,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_9938966903.GIF",
+            "hint": "",
+            "example": "quadabs_9097207393.GIF",
+            "algebra": "{2, 1, -1}",
+            "example_anime": {
+                "image": "quadabs_3899357104.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5647151313.pdf",
+            "choices": [
+                "quadabs_3582286886.GIF",
+                "quadabs_5026075468.GIF",
+                "quadabs_3738988945.GIF",
+                "quadabs_1039585316.GIF"
+            ],
+            "index": [
+                1,
+                4,
+                2,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1532518784.GIF",
+            "hint": "",
+            "example": "quadabs_7858573097.GIF",
+            "algebra": "{2, 1, -1}",
+            "example_anime": {
+                "image": "quadabs_5838074332.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3647320105.pdf",
+            "choices": [
+                "quadabs_8321374201.GIF",
+                "quadabs_5405602589.GIF",
+                "quadabs_7666914989.GIF",
+                "quadabs_5787149035.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6740735284.GIF",
+            "hint": "",
+            "example": "quadabs_7377988415.GIF",
+            "algebra": "{2, 1, -1}",
+            "example_anime": {
+                "image": "quadabs_5555431613.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5985666944.pdf",
+            "choices": [
+                "quadabs_7330940825.GIF",
+                "quadabs_5778854853.GIF",
+                "quadabs_3570756857.GIF",
+                "quadabs_7966932680.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6146183034.GIF",
+            "hint": "",
+            "example": "quadabs_4503472663.GIF",
+            "algebra": "{1, 2, -2}",
+            "example_anime": {
+                "image": "quadabs_2057739217.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2810530837.pdf",
+            "choices": [
+                "quadabs_7309246142.GIF",
+                "quadabs_1721083253.GIF",
+                "quadabs_4554021212.GIF",
+                "quadabs_3600766573.GIF"
+            ],
+            "index": [
+                2,
+                4,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3249940450.GIF",
+            "hint": "",
+            "example": "quadabs_4570208364.GIF",
+            "algebra": "{1, 2, -2}",
+            "example_anime": {
+                "image": "quadabs_1837979677.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_9635840991.pdf",
+            "choices": [
+                "quadabs_8522931750.GIF",
+                "quadabs_1749586794.GIF",
+                "quadabs_7439049598.GIF",
+                "quadabs_3707039211.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6301845108.GIF",
+            "hint": "",
+            "example": "quadabs_6176780813.GIF",
+            "algebra": "{1, 2, -2}",
+            "example_anime": {
+                "image": "quadabs_5862817929.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_4677229597.pdf",
+            "choices": [
+                "quadabs_5748553332.GIF",
+                "quadabs_5693118966.GIF",
+                "quadabs_5219949543.GIF",
+                "quadabs_7736220960.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5094148325.GIF",
+            "hint": "",
+            "example": "quadabs_4608659954.GIF",
+            "algebra": "{-2, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_2999368725.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7139083159.pdf",
+            "choices": [
+                "quadabs_1356312590.GIF",
+                "quadabs_3865330197.GIF",
+                "quadabs_6976289322.GIF",
+                "quadabs_5439702402.GIF"
+            ],
+            "index": [
+                1,
+                4,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8735203141.GIF",
+            "hint": "",
+            "example": "quadabs_4559278169.GIF",
+            "algebra": "{-2, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_7432635816.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7073193133.pdf",
+            "choices": [
+                "quadabs_1534660769.GIF",
+                "quadabs_4344760228.GIF",
+                "quadabs_3471829468.GIF",
+                "quadabs_8186546258.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_1858673828.GIF",
+            "hint": "",
+            "example": "quadabs_6487073729.GIF",
+            "algebra": "{-2, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_9949971671.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6351682941.pdf",
+            "choices": [
+                "quadabs_3597369659.GIF",
+                "quadabs_1927315529.GIF",
+                "quadabs_8952039489.GIF",
+                "quadabs_4863367427.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                2,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_2587457262.GIF",
+            "hint": "",
+            "example": "quadabs_2183966742.GIF",
+            "algebra": "{1, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_7332026579.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1515383701.pdf",
+            "choices": [
+                "quadabs_2451470000.GIF",
+                "quadabs_6148117855.GIF",
+                "quadabs_2463552316.GIF",
+                "quadabs_8151703262.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_2929989011.GIF",
+            "hint": "",
+            "example": "quadabs_8573589481.GIF",
+            "algebra": "{1, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_5889065892.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1418948107.pdf",
+            "choices": [
+                "quadabs_3378041592.GIF",
+                "quadabs_9115949823.GIF",
+                "quadabs_7758656660.GIF",
+                "quadabs_3546109352.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4005649903.GIF",
+            "hint": "",
+            "example": "quadabs_1889521375.GIF",
+            "algebra": "{1, 0, 2}",
+            "example_anime": {
+                "image": "quadabs_4402814214.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_9814468767.pdf",
+            "choices": [
+                "quadabs_9392248628.GIF",
+                "quadabs_4193467173.GIF",
+                "quadabs_6195705022.GIF",
+                "quadabs_7700743721.GIF"
+            ],
+            "index": [
+                3,
+                4,
+                2,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8287487901.GIF",
+            "hint": "",
+            "example": "quadabs_6267818746.GIF",
+            "algebra": "{2, 1, -2}",
+            "example_anime": {
+                "image": "quadabs_1224650362.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3314760369.pdf",
+            "choices": [
+                "quadabs_4654360437.GIF",
+                "quadabs_7814705283.GIF",
+                "quadabs_2130431892.GIF",
+                "quadabs_2305207457.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                3,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3516757072.GIF",
+            "hint": "",
+            "example": "quadabs_8105295255.GIF",
+            "algebra": "{2, 1, -2}",
+            "example_anime": {
+                "image": "quadabs_9335445613.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5850866387.pdf",
+            "choices": [
+                "quadabs_3554689033.GIF",
+                "quadabs_5994214078.GIF",
+                "quadabs_3846772570.GIF",
+                "quadabs_6530383109.GIF"
+            ],
+            "index": [
+                3,
+                2,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5969615053.GIF",
+            "hint": "",
+            "example": "quadabs_3183119773.GIF",
+            "algebra": "{2, 1, -2}",
+            "example_anime": {
+                "image": "quadabs_8700114553.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_8432764590.pdf",
+            "choices": [
+                "quadabs_2681336523.GIF",
+                "quadabs_3898189613.GIF",
+                "quadabs_6826227627.GIF",
+                "quadabs_2798271480.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3669077187.GIF",
+            "hint": "",
+            "example": "quadabs_6376506311.GIF",
+            "algebra": "{1, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_7177687865.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5985036188.pdf",
+            "choices": [
+                "quadabs_4967154208.GIF",
+                "quadabs_7222360882.GIF",
+                "quadabs_2526184897.GIF",
+                "quadabs_9733808620.GIF"
+            ],
+            "index": [
+                2,
+                1,
+                3,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7013482055.GIF",
+            "hint": "",
+            "example": "quadabs_3972410455.GIF",
+            "algebra": "{1, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_2744881333.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3373504845.pdf",
+            "choices": [
+                "quadabs_6039043917.GIF",
+                "quadabs_6155366105.GIF",
+                "quadabs_2162686572.GIF",
+                "quadabs_1469823520.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                1,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8831121454.GIF",
+            "hint": "",
+            "example": "quadabs_9652293214.GIF",
+            "algebra": "{1, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_1407906771.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5757081053.pdf",
+            "choices": [
+                "quadabs_4395377081.GIF",
+                "quadabs_4621520956.GIF",
+                "quadabs_8957593788.GIF",
+                "quadabs_8930723200.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7567373720.GIF",
+            "hint": "",
+            "example": "quadabs_2939540433.GIF",
+            "algebra": "{2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_7748597092.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_5021607189.pdf",
+            "choices": [
+                "quadabs_9104370436.GIF",
+                "quadabs_5201723335.GIF",
+                "quadabs_5641825751.GIF",
+                "quadabs_3620615122.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                2,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4930771134.GIF",
+            "hint": "",
+            "example": "quadabs_4652006837.GIF",
+            "algebra": "{2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_7979116756.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_9674937263.pdf",
+            "choices": [
+                "quadabs_3995818683.GIF",
+                "quadabs_7060285186.GIF",
+                "quadabs_2450513712.GIF",
+                "quadabs_8858832442.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3462138004.GIF",
+            "hint": "",
+            "example": "quadabs_9100614958.GIF",
+            "algebra": "{2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_4453804616.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6997794913.pdf",
+            "choices": [
+                "quadabs_5572957541.GIF",
+                "quadabs_8360695502.GIF",
+                "quadabs_7190537480.GIF",
+                "quadabs_8860716684.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                1,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6783510507.GIF",
+            "hint": "",
+            "example": "quadabs_4640051691.GIF",
+            "algebra": "{-2, 2, 2}",
+            "example_anime": {
+                "image": "quadabs_3569351955.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6055659148.pdf",
+            "choices": [
+                "quadabs_4971715465.GIF",
+                "quadabs_8663006604.GIF",
+                "quadabs_8686631595.GIF",
+                "quadabs_5663737150.GIF"
+            ],
+            "index": [
+                1,
+                3,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6988831505.GIF",
+            "hint": "",
+            "example": "quadabs_1451976977.GIF",
+            "algebra": "{-2, 2, 2}",
+            "example_anime": {
+                "image": "quadabs_1554983240.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3792800469.pdf",
+            "choices": [
+                "quadabs_3842051936.GIF",
+                "quadabs_6331425628.GIF",
+                "quadabs_9217268911.GIF",
+                "quadabs_4693428009.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7744917262.GIF",
+            "hint": "",
+            "example": "quadabs_2182689438.GIF",
+            "algebra": "{-2, 2, 2}",
+            "example_anime": {
+                "image": "quadabs_7605243998.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1190417067.pdf",
+            "choices": [
+                "quadabs_6272755718.GIF",
+                "quadabs_1207627467.GIF",
+                "quadabs_5654646586.GIF",
+                "quadabs_3383954947.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                2,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_5506966115.GIF",
+            "hint": "",
+            "example": "quadabs_3528696411.GIF",
+            "algebra": "{2, -2, 2}",
+            "example_anime": {
+                "image": "quadabs_6878247375.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6662631805.pdf",
+            "choices": [
+                "quadabs_4901215399.GIF",
+                "quadabs_1392826696.GIF",
+                "quadabs_4291601626.GIF",
+                "quadabs_3249325552.GIF"
+            ],
+            "index": [
+                2,
+                4,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6672145763.GIF",
+            "hint": "",
+            "example": "quadabs_3972805607.GIF",
+            "algebra": "{2, -2, 2}",
+            "example_anime": {
+                "image": "quadabs_2219464241.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_8873588694.pdf",
+            "choices": [
+                "quadabs_6450632923.GIF",
+                "quadabs_8819528622.GIF",
+                "quadabs_6544926350.GIF",
+                "quadabs_9463165493.GIF"
+            ],
+            "index": [
+                4,
+                3,
+                2,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_3494090259.GIF",
+            "hint": "",
+            "example": "quadabs_5098327052.GIF",
+            "algebra": "{2, -2, 2}",
+            "example_anime": {
+                "image": "quadabs_9940039179.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7300220272.pdf",
+            "choices": [
+                "quadabs_1105531518.GIF",
+                "quadabs_5357312631.GIF",
+                "quadabs_4169112677.GIF",
+                "quadabs_2071829371.GIF"
+            ],
+            "index": [
+                2,
+                4,
+                1,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_7973231129.GIF",
+            "hint": "",
+            "example": "quadabs_5597428044.GIF",
+            "algebra": "{2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_3025847150.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_7322416936.pdf",
+            "choices": [
+                "quadabs_1017241952.GIF",
+                "quadabs_7981891273.GIF",
+                "quadabs_9026075903.GIF",
+                "quadabs_1749504560.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_9101246651.GIF",
+            "hint": "",
+            "example": "quadabs_6503633411.GIF",
+            "algebra": "{2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_9263766328.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6721494810.pdf",
+            "choices": [
+                "quadabs_2225173985.GIF",
+                "quadabs_7161461306.GIF",
+                "quadabs_1379679429.GIF",
+                "quadabs_6790688340.GIF"
+            ],
+            "index": [
+                2,
+                4,
+                1,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_6238375964.GIF",
+            "hint": "",
+            "example": "quadabs_6128179132.GIF",
+            "algebra": "{2, 2, 1}",
+            "example_anime": {
+                "image": "quadabs_6325639580.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_4110395744.pdf",
+            "choices": [
+                "quadabs_8589815978.GIF",
+                "quadabs_5828973938.GIF",
+                "quadabs_8226131168.GIF",
+                "quadabs_1729139931.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8542581838.GIF",
+            "hint": "",
+            "example": "quadabs_3927835115.GIF",
+            "algebra": "{2, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_5958557320.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_1034098146.pdf",
+            "choices": [
+                "quadabs_9134038899.GIF",
+                "quadabs_6704173682.GIF",
+                "quadabs_4411157425.GIF",
+                "quadabs_7290023690.GIF"
+            ],
+            "index": [
+                3,
+                2,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_8278392232.GIF",
+            "hint": "",
+            "example": "quadabs_6918127110.GIF",
+            "algebra": "{2, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_8087140855.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_4956319904.pdf",
+            "choices": [
+                "quadabs_8795178514.GIF",
+                "quadabs_2475014810.GIF",
+                "quadabs_1430595630.GIF",
+                "quadabs_4891794969.GIF"
+            ],
+            "index": [
+                4,
+                1,
+                2,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4920214313.GIF",
+            "hint": "",
+            "example": "quadabs_1254186540.GIF",
+            "algebra": "{2, 2, 0}",
+            "example_anime": {
+                "image": "quadabs_2482705812.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_3750767939.pdf",
+            "choices": [
+                "quadabs_2718022946.GIF",
+                "quadabs_9254570746.GIF",
+                "quadabs_3660751213.GIF",
+                "quadabs_7522775224.GIF"
+            ],
+            "index": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ],
+    [
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4942919240.GIF",
+            "hint": "",
+            "example": "quadabs_5822916914.GIF",
+            "algebra": "{-2, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_3928670608.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2722053132.pdf",
+            "choices": [
+                "quadabs_4537734744.GIF",
+                "quadabs_1300155441.GIF",
+                "quadabs_8275226118.GIF",
+                "quadabs_3996324863.GIF"
+            ],
+            "index": [
+                3,
+                1,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_9823094645.GIF",
+            "hint": "",
+            "example": "quadabs_7640103191.GIF",
+            "algebra": "{-2, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_1666844245.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_2114464657.pdf",
+            "choices": [
+                "quadabs_3460247302.GIF",
+                "quadabs_3926546863.GIF",
+                "quadabs_3092373704.GIF",
+                "quadabs_1130375850.GIF"
+            ],
+            "index": [
+                1,
+                2,
+                4,
+                3
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        },
+        {
+            "question": "",
+            "links": [
+                "http://www.mathsisfun.com/sets/domain-range-codomain.html",
+                "https://www.khanacademy.org/math/algebra/quadratics/quadratics-square-root/v/solving-quadratic-equations-by-square-roots"
+            ],
+            "links_text": [
+                "Math is fun: Domain and Range",
+                "KHAN: Square Roots and solutions"
+            ],
+            "tutorial": "quadabs_4296567737.GIF",
+            "hint": "",
+            "example": "quadabs_3996476477.GIF",
+            "algebra": "{-2, -1, 0}",
+            "example_anime": {
+                "image": "quadabs_8266412003.GIF",
+                "slider": "true",
+                "optimize": 0
+            },
+            "API": [
+                ""
+            ],
+            "API_text": [
+                "One quadratic function transforming to another"
+            ],
+            "cdf": "",
+            "cloud": "",
+            "type": "1",
+            "typeTEXT": "1",
+            "pdf": "quadabs_6033166475.pdf",
+            "choices": [
+                "quadabs_5664824798.GIF",
+                "quadabs_6718948174.GIF",
+                "quadabs_4549715801.GIF",
+                "quadabs_3981445293.GIF"
+            ],
+            "index": [
+                1,
+                3,
+                2,
+                4
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/qms702-ted-rogers-school-of-management"
+        }
+    ]
+]
