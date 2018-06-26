@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "question": "quiz3_ARAB_9935314434.EPS",
+            "anime": "quiz3_ARAB_9935314434.EPS",
+            "links": [
+                "https://en.wikipedia.org/wiki/Venn_diagram",
+                "https://www.youtube.com/watch?v=YAjxRUGS0Gc",
+                "http://www.regentsprep.org/regents/math/algebra/ap2/lvenn.htm",
+                "http://mathworld.wolfram.com/VennDiagram.html"
+            ],
+            "links_text": [
+                "WIKI Venn Diagram",
+                "YouTube Venn",
+                "regentsprep venn",
+                "wolfram venn"
+            ],
+            "tutorial": "quiz3_ARAB_9935314434.EPS",
+            "hint": "",
+            "example": "",
+            "algebra": "{RegionDifference[Rectangle[{0, 0}, {5, 5}], Disk[{5, 5}, 2]]}",
+            "cdf": "",
+            "cloud": "",
+            "pdf": "Leaving_ruledsurfaces_7071261098.pdf",
+            "choices": [
+                "quiz3_ARAB_9935314434.EPS",
+                "quiz3_ARAB_9935314434.EPS",
+                "quiz3_ARAB_9935314434.EPS",
+                "quiz3_ARAB_9935314434.EPS"
+            ],
+            "index": [
+                2,
+                4,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/ap-calculus-and-linear-algebra"
+        }
+    ]
+]

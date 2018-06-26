@@ -1,0 +1,26 @@
+<?php
+
+use PHPUnit\Framework\TestCase;
+
+require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/../lib/Util.php';
+
+class AGifTest extends TestCase {
+
+    public function test_good_gif() {
+        $this->assertTrue(Util::validateAnimatedGif('good_agif.gif', 'data'));
+    }
+
+    public function test_bad_gif() {
+        $this->assertFalse(Util::validateAnimatedGif('bad_agif.gif', 'data'));
+    }
+
+    public function test_simple_gif() {
+        $this->assertTrue(Util::validateAnimatedGif('simple.gif', 'data'));
+    }
+
+    public function test_non_gif() {
+        $this->assertTrue(Util::validateAnimatedGif('Leaving_ruledsurfaces_2192838862.PNG', 'data'));
+    }
+
+}

@@ -1,0 +1,65 @@
+<?php
+
+require __DIR__ . '/vendor/autoload.php';
+/*
+ * read all *.json files and merge
+ * look through merged file and remove quizzes with bad image references
+ * make backup of existing module.json
+ */
+
+
+
+if ($argc != 2) {
+    \CCN\Util::error("Usage: validate <module dir>");
+    die;
+}
+
+$rootdir = realpath($argv[1]);
+echo "$rootdir\n";
+
+if (!file_exists($rootdir) || !is_dir($rootdir)) {
+    \CCN\Util::error("Could not find the directory '$rootdir'");
+    die;
+}
+
+$json = array();
+
+foreach (glob("$rootdir" . DIRECTORY_SEPARATOR . "*.json") as $file) {
+    echo "merging $file\n";
+    $json = \CCN\Util::mergejson($json, $file);
+    if (basename($file) !== 'module.json') {
+        echo "renaming $file\n";
+        rename($file, $file . '.bak');
+    }
+}
+
+$module = array();
+foreach ($json as $quiz) {
+    $quizzes = array();
+    foreach ($quiz as $question) {
+        $missing = false;
+        foreach (array('question', 'anime', 'choices', 'tutorial', 'pdf', 'cdf', 'hint', 'example') as $element) {
+            $e = $question->$element;
+            if (is_array($e)) {
+                $choices = $e;
+                foreach ($choices as $file) {
+                    $missing = $missing || !\CCN\Util::validate_file($file, $rootdir);
+                }
+            } else {
+                $missing = !\CCN\Util::validate_file($e, $rootdir);
+            }
+        }
+        if (!$missing) {
+            $quizzes[] = $question;
+        }
+    }
+    if (count($quizzes) > 0) {
+        $module[] = $quizzes;
+    }
+}
+
+\CCN\Util::make_backups();
+
+file_put_contents($rootdir . DIRECTORY_SEPARATOR . "module.json", json_encode($module));
+
+echo(count($module) . " questions\n");

@@ -1,0 +1,18 @@
+<?php
+
+use PHPUnit\Framework\TestCase;
+
+require_once __DIR__ . '/../vendor/autoload.php';
+require_once __DIR__ . '/../lib/Util.php';
+
+class BasicTest extends TestCase {
+
+    public function test_image_exists() {
+        $this->assertTrue(Util::image_exists('Leaving_ruledsurfaces_2192838862.PNG', 'data'));
+    }
+
+    public function test_mergejson() {
+        $this->assertEquals(2, count(Util::mergejson([], 'data\module.json')));
+    }
+
+}

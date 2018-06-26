@@ -1,0 +1,77 @@
+<?php
+
+require __DIR__ . '/vendor/autoload.php';
+require 'lib/Util.php';
+/*
+ * read all *.json files and merge
+ * look through merged file and remove quizzes with bad image references
+ * make backup of existing module.json
+ */
+
+if ($argc != 2) {
+    Util::error("Usage: validate <module dir>");
+    die;
+}
+
+$rootdir = realpath($argv[1]);
+echo "$rootdir\n";
+
+if (!file_exists($rootdir) || !is_dir($rootdir)) {
+    error("Could not find the directory '$rootdir'");
+    die;
+}
+
+$json = array();
+
+foreach (glob("$rootdir" . DIRECTORY_SEPARATOR . "*.json") as $file) {
+    echo "merging $file\n";
+    $json = Util::mergejson($json, $file);
+    if (basename($file) !== 'module.json') {
+        echo "unlinking $file\n";
+        unlink($file);
+    }
+}
+
+$module = array();
+foreach ($json as $quiz) {
+    $quizzes = array();
+    foreach ($quiz as $question) {
+        $missing = false;
+        foreach (array('question', 'choices', 'tutorial', 'pdf', 'cdf', 'hint', 'example') as $element) {
+            $e = $question->$element;
+            if (is_array($e)) {
+                $choices = $e;
+                foreach ($choices as $image) {
+                    if (!Util::image_exists($image, $rootdir)) {
+                        $missing = true;
+                    } else {
+                        $missing = $missing || !Util::validateAnimatedGif($image, $rootdir);
+                    }
+                }
+            } else {
+                if (!Util::image_exists($e, $rootdir)) {
+                    $missing = true;
+                } else {
+                    $missing = $missing || !Util::validateAnimatedGif($e, $rootdir);
+                }
+            }
+        }
+        if (!$missing) {
+            $quizzes[] = $question;
+        }
+    }
+    if (count($quizzes) > 0) {
+        $module[] = $quizzes;
+    }
+}
+
+//backups
+@rename("$rootdir" . DIRECTORY_SEPARATOR . "module.json.4", "$rootdir" . DIRECTORY_SEPARATOR . "module.json.5");
+@rename("$rootdir" . DIRECTORY_SEPARATOR . "module.json.3", "$rootdir" . DIRECTORY_SEPARATOR . "module.json.4");
+@rename("$rootdir" . DIRECTORY_SEPARATOR . "module.json.2", "$rootdir" . DIRECTORY_SEPARATOR . "module.json.3");
+@rename("$rootdir" . DIRECTORY_SEPARATOR . "module.json.1", "$rootdir" . DIRECTORY_SEPARATOR . "module.json.2");
+@rename("$rootdir" . DIRECTORY_SEPARATOR . "module.json", "$rootdir" . DIRECTORY_SEPARATOR . "module.json.1");
+
+file_put_contents($rootdir . DIRECTORY_SEPARATOR . "module.json", json_encode($module));
+
+echo(count($module) . " questions\n");

@@ -1,0 +1,19 @@
+{
+    "name": "ccn/jsonmerge",
+    "description": "merge json files and fix gifs.",
+    "authors": [
+        {
+            "name": "Wayne Allen",
+            "email": "wayne@compclassnotes.com"
+        }
+    ],
+     "autoload": {
+        "psr-4": {"CCN\\": "src/"}
+    },
+    "require": {
+        "stil/gif-endec": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.6.*"
+    }
+}

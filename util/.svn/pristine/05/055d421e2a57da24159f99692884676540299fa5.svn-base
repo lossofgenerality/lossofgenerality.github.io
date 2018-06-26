@@ -1,0 +1,16 @@
+{
+    "name": "vendor/ccnutil",
+    "description": "Description of project ccnutil.",
+    "authors": [
+        {
+            "name": "wallen",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "stil/gif-endec": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.6.*"
+    }
+}

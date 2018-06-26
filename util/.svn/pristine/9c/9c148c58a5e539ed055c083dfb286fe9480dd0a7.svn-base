@@ -1,0 +1,82 @@
+<?php
+
+namespace CCN;
+
+class Util {
+
+    static function error(string $msg) {
+        fwrite(STDERR, "$msg\n");
+    }
+
+    static function mergejson(array $json, string $file) {
+        $content = file_get_contents($file);
+        if (false === $content) {
+            Util::error("There was a problem reading $file");
+            die;
+        }
+
+        $newjson = json_decode($content);
+        if (null == $newjson) {
+            Util::error("There was an error parsing the file");
+            die;
+        }
+
+        return array_merge($json, $newjson);
+    }
+
+    static function image_exists(string $image, string $path) {
+        if (!file_exists($path . DIRECTORY_SEPARATOR . $image)) {
+            Util::error($path . DIRECTORY_SEPARATOR . $image . " does not exist");
+            return false;
+        }
+        return true;
+    }
+
+    //https://github.com/stil/gif-endec
+    static function isValidAnimatedGif(string $image, string $path) {
+        $badframes = 0;
+        $file = $path . DIRECTORY_SEPARATOR . $image;
+
+        if (strtolower(pathinfo($file, PATHINFO_EXTENSION)) == 'gif') {
+            $gifStream = new \GIFEndec\IO\FileStream($file);
+            $gifDecoder = new \GIFEndec\Decoder($gifStream);
+            $gifDecoder->decode(function (\GIFEndec\Events\FrameDecodedEvent $event) use (&$badframes) {
+                if ($event->decodedFrame->getSize()->getWidth() == 0 || $event->decodedFrame->getSize()->getHeight() == 0) {
+                    $badframes++;
+                }
+            });
+            if ($badframes > 0) {
+                Util::error($path . DIRECTORY_SEPARATOR . $image . " has $badframes bad frames");
+            }
+        }
+
+        return ($badframes == 0);
+    }
+
+    static function fixAnimatedGif(string $source, $target, string $path) {
+        $gifStream = new \GIFEndec\IO\FileStream("$path/$source");
+        $gifDecoder = new \GIFEndec\Decoder($gifStream);
+        $filehash = '';
+        $newgif = new \GIFEndec\Encoder();
+        $framecount = 0;
+        $gifDecoder->decode(function (\GIFEndec\Events\FrameDecodedEvent $event) use (&$filehash, &$newgif, &$framecount) {
+            $paddedIndex = str_pad($event->frameIndex, 4, '0', STR_PAD_LEFT);
+            if ($event->decodedFrame->getSize()->getWidth() != 0 && $event->decodedFrame->getSize()->getHeight() != 0) {
+
+                $path = tempnam(sys_get_temp_dir(), 'AGIF');
+                $event->decodedFrame->getStream()->copyContentsToFile($path);
+                $h = sha1_file($path);
+                if ($h != $filehash) {
+                    $filehash = $h;
+                    $event->decodedFrame->setDuration(30);
+                    $newgif->addFrame($event->decodedFrame);
+                    $framecount++;
+                }
+                unlink($path);
+            }
+        });
+        $newgif->getStream()->copyContentsToFile("$path/$target");
+        return $framecount;
+    }
+
+}

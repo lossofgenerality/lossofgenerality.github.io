@@ -1,0 +1,52 @@
+<?php
+
+class Util {
+
+    static function error($msg) {
+        fwrite(STDERR, "$msg\n");
+    }
+
+    static function mergejson($json, $file) {
+        $content = file_get_contents($file);
+        if (false === $content) {
+            Util::error("There was a problem reading $file");
+            die;
+        }
+
+        $newjson = json_decode($content);
+        if (null == $newjson) {
+            Util::error("There was an error parsing the file");
+            die;
+        }
+
+        return array_merge($json, $newjson);
+    }
+
+    static function image_exists($image, $path) {
+        if (!file_exists($path . DIRECTORY_SEPARATOR . $image)) {
+            Util::error($path . DIRECTORY_SEPARATOR . $image . " does not exist");
+            return false;
+        }
+        return true;
+    }
+
+    //https://github.com/stil/gif-endec
+    static function validateAnimatedGif($image, $path) {
+        $badframes = 0;
+        $file = $path . DIRECTORY_SEPARATOR . $image;
+
+        if (strtolower(pathinfo($file, PATHINFO_EXTENSION)) == 'gif') {
+            $gifStream = new \GIFEndec\MemoryStream();
+            $gifStream->loadFromFile($file);
+            $gifDecoder = new \GIFEndec\Decoder($gifStream);
+            $gifDecoder->decode(function (\GIFEndec\Frame $frame) use (&$badframes) {
+                if ($frame->getSize()->getWidth() == 0 || $frame->getSize()->getHeight() == 0) {
+                    $badframes++;
+                }
+            });
+        }
+
+        return ($badframes == 0);
+    }
+
+}

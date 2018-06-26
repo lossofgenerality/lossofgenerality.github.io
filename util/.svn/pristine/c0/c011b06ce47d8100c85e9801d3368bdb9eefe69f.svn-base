@@ -1,0 +1,185 @@
+[
+    [
+        {
+            "question": "Leaving_ruledsurfaces_2606706611.PNG",
+            "links": [
+                "https://en.wikipedia.org/wiki/Venn_diagram",
+                "https://www.youtube.com/watch?v=YAjxRUGS0Gc",
+                "http://www.regentsprep.org/regents/math/algebra/ap2/lvenn.htm",
+                "http://mathworld.wolfram.com/VennDiagram.html"
+            ],
+            "links_text": [
+                "WIKI Venn Diagram",
+                "YouTube Venn",
+                "regentsprep venn",
+                "wolfram venn"
+            ],
+            "tutorial": "Leaving_ruledsurfaces_3175731135.PNG",
+            "hint": "",
+            "example": "",
+            "algebra": "{RegionDifference[Rectangle[{0, 0}, {5, 5}], Disk[{5, 5}, 2]]}",
+            "cdf": "",
+            "cloud": "",
+            "pdf": "Leaving_ruledsurfaces_7071261098.pdf",
+            "choices": [
+                "Leaving_ruledsurfaces_9898169501.PNG",
+                "Leaving_ruledsurfaces_7047916255.PNG",
+                "Leaving_ruledsurfaces_5678187345.PNG",
+                "Leaving_ruledsurfaces_2469089210.PNG"
+            ],
+            "index": [
+                2,
+                4,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/ap-calculus-and-linear-algebra"
+        },
+        {
+            "question": "Leaving_ruledsurfaces_6220186184.PNG",
+            "links": [
+                "https://en.wikipedia.org/wiki/Venn_diagram",
+                "https://www.youtube.com/watch?v=YAjxRUGS0Gc",
+                "http://www.regentsprep.org/regents/math/algebra/ap2/lvenn.htm",
+                "http://mathworld.wolfram.com/VennDiagram.html"
+            ],
+            "links_text": [
+                "WIKI Venn Diagram",
+                "YouTube Venn",
+                "regentsprep venn",
+                "wolfram venn"
+            ],
+            "tutorial": "Leaving_ruledsurfaces_8795953561.PNG",
+            "hint": "",
+            "example": "",
+            "algebra": [
+            ],
+            "cdf": "",
+            "cloud": "",
+            "pdf": "Leaving_ruledsurfaces_2811956296.pdf",
+            "choices": [
+                "Leaving_ruledsurfaces_3510782933.PNG",
+                "Leaving_ruledsurfaces_3266474285.PNG",
+                "Leaving_ruledsurfaces_5875481550.PNG",
+                "Leaving_ruledsurfaces_3435596189.PNG"
+            ],
+            "index": [
+                2,
+                4,
+                3,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/ap-calculus-and-linear-algebra"
+        }
+    ],
+    [
+        {
+            "question": "Leaving_ruledsurfaces_2192838862.PNG",
+            "links": [
+                "https://en.wikipedia.org/wiki/Venn_diagram",
+                "https://www.youtube.com/watch?v=YAjxRUGS0Gc",
+                "http://www.regentsprep.org/regents/math/algebra/ap2/lvenn.htm",
+                "http://mathworld.wolfram.com/VennDiagram.html"
+            ],
+            "links_text": [
+                "WIKI Venn Diagram",
+                "YouTube Venn",
+                "regentsprep venn",
+                "wolfram venn"
+            ],
+            "tutorial": "Leaving_ruledsurfaces_8915390212.PNG",
+            "hint": "",
+            "example": "",
+            "algebra": "{RegionDifference[Rectangle[{0, 0}, {5, 5}], Disk[{5, 5}, 4]]}",
+            "cdf": "",
+            "cloud": "",
+            "pdf": "Leaving_ruledsurfaces_2389699594.pdf",
+            "choices": [
+                "Leaving_ruledsurfaces_5747794042.PNG",
+                "Leaving_ruledsurfaces_8251623815.PNG",
+                "Leaving_ruledsurfaces_4163512242.PNG",
+                "Leaving_ruledsurfaces_3276721380.PNG"
+            ],
+            "index": [
+                3,
+                1,
+                4,
+                2
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/ap-calculus-and-linear-algebra"
+        },
+        {
+            "question": "Leaving_ruledsurfaces_3639856540.PNG",
+            "links": [
+                "https://en.wikipedia.org/wiki/Venn_diagram",
+                "https://www.youtube.com/watch?v=YAjxRUGS0Gc",
+                "http://www.regentsprep.org/regents/math/algebra/ap2/lvenn.htm",
+                "http://mathworld.wolfram.com/VennDiagram.html"
+            ],
+            "links_text": [
+                "WIKI Venn Diagram",
+                "YouTube Venn",
+                "regentsprep venn",
+                "wolfram venn"
+            ],
+            "tutorial": "Leaving_ruledsurfaces_7021055295.PNG",
+            "hint": "",
+            "example": "",
+            "algebra": [
+            ],
+            "cdf": "",
+            "cloud": "",
+            "pdf": "Leaving_ruledsurfaces_4964736299.pdf",
+            "choices": [
+                "Leaving_ruledsurfaces_5646130452.PNG",
+                "Leaving_ruledsurfaces_1459374303.PNG",
+                "Leaving_ruledsurfaces_4277661498.PNG",
+                "Leaving_ruledsurfaces_3943675032.PNG"
+            ],
+            "index": [
+                3,
+                2,
+                4,
+                1
+            ],
+            "forum": "https://dev.compclassnotes.com/forum/ap-calculus-and-linear-algebra"
+        },
+        {
+            "question": "",
+            "links": [
+                "http:\/\/www.themathpage.com\/alg\/simplify-radicals.htm",
+                "http:\/\/study.com\/academy\/lesson\/radical-expression-definition-examples-quiz.html",
+                "http:\/\/tutorial.math.lamar.edu\/Classes\/Alg\/Radicals.aspx",
+                "https:\/\/www.youtube.com\/watch?v=YMny-hM1NNA"
+            ],
+            "links_text": [
+                "Simplifying Radicals",
+                "Radical Expression",
+                "More detailed radicals",
+                "Video Example"
+            ],
+            "tutorial": "",
+            "hint": "QMS702_PROD_9880698009.GIF",
+            "example": "QMS702_PROD_2498228781.GIF",
+            "algebra": "",
+            "cdf": "Ryerson_log_power.cdf",
+            "cloud": "https:\/\/www.wolframcloud.com\/objects\/29d9aa88-e69b-4855-b984-31624c8e3055",
+            "pdf": "QMS702_PROD_5355416525.pdf",
+            "type": "1",
+            "typeTEXT": "Product Formulas",
+            "choices": [
+                "QMS702_PROD_3615161190.GIF",
+                "QMS702_PROD_5201985418.GIF",
+                "QMS702_PROD_4631905247.GIF",
+                "QMS702_PROD_7745538683.GIF"
+            ],
+            "index": [
+                4,
+                2,
+                1,
+                3
+            ],
+            "forum": "https:\/\/dev.compclassnotes.com\/forum\/qms702-ted-rogers-school-of-management"
+        }
+    ]
+]
